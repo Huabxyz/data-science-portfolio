@@ -48,8 +48,9 @@ Python, Pandas, NumPy, Matplotlib, and statistical analysis.
 
 **Key Findings**
 
-Facebook experienced the largest increase in raw closing prices during the period, followed by Amazon. The analysis also revealed differences in daily volatility across the five companies.
+The analysis shows that Facebook experienced the highest raw closing-price increase (531.21%) between 2013 and 2018, followed by Amazon (440.86%). Facebook also recorded the highest daily volatility (2.01%) among the five companies.
 
+These findings demonstrate that strong historical price growth may be accompanied by greater price fluctuations. However, the results are based on historical raw closing prices and should not be interpreted as total investment returns.
 **Project Limitation**
 
 The historical dataset covers 2013–2018. Raw closing-price comparisons do not fully account for stock splits, dividends, and other factors affecting investment returns.
